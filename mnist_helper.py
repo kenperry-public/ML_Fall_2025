@@ -340,7 +340,7 @@ class MNIST_Helper():
 
             _= ax[1].bar(idxs,   prob )
             _= ax[1].set_xticks(classes)
-            _= ax[1].set_title("Probabilies")
+            _= ax[1].set_title("Probabilities")
 
             i += 1
 
