@@ -1,0 +1,659 @@
+%PDF-1.4
+%׃כיב
+1 0 obj
+<</Title (DNN_Keras_example slides)
+/Creator (Mozilla/5.0 \(X11; Linux x86_64\) AppleWebKit/537.36 \(KHTML, like Gecko\) Chrome/140.0.0.0 Safari/537.36)
+/Producer (Skia/PDF m140)
+/CreationDate (D:20251003201943+00'00')
+/ModDate (D:20251003201943+00'00')>>
+endobj
+3 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+5 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+7 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+9 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+11 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+13 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+15 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+17 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+19 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+21 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+23 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+25 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+27 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+29 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+31 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+33 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+35 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+37 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+39 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+41 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+43 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+45 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+47 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+49 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+51 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+53 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+55 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+57 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+59 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+61 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+63 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+65 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+67 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+69 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+71 0 obj
+<</Length 0>> stream
+
+endstream
+endobj
+2 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 3 0 R
+/StructParents 0
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+4 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 5 0 R
+/StructParents 1
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+6 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 7 0 R
+/StructParents 2
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+8 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 9 0 R
+/StructParents 3
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+10 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 11 0 R
+/StructParents 4
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+12 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 13 0 R
+/StructParents 5
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+14 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 15 0 R
+/StructParents 6
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+16 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 17 0 R
+/StructParents 7
+/Tabs /S
+/Parent 72 0 R>>
+endobj
+18 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 19 0 R
+/StructParents 8
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+20 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 21 0 R
+/StructParents 9
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+22 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 23 0 R
+/StructParents 10
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+24 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 25 0 R
+/StructParents 11
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+26 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 27 0 R
+/StructParents 12
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+28 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 29 0 R
+/StructParents 13
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+30 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 31 0 R
+/StructParents 14
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+32 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 33 0 R
+/StructParents 15
+/Tabs /S
+/Parent 73 0 R>>
+endobj
+34 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 35 0 R
+/StructParents 16
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+36 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 37 0 R
+/StructParents 17
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+38 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 39 0 R
+/StructParents 18
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+40 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 41 0 R
+/StructParents 19
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+42 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 43 0 R
+/StructParents 20
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+44 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 45 0 R
+/StructParents 21
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+46 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 47 0 R
+/StructParents 22
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+48 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 49 0 R
+/StructParents 23
+/Tabs /S
+/Parent 74 0 R>>
+endobj
+50 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 51 0 R
+/StructParents 24
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+52 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 53 0 R
+/StructParents 25
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+54 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 55 0 R
+/StructParents 26
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+56 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 57 0 R
+/StructParents 27
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+58 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 59 0 R
+/StructParents 28
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+60 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 61 0 R
+/StructParents 29
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+62 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 63 0 R
+/StructParents 30
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+64 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 65 0 R
+/StructParents 31
+/Tabs /S
+/Parent 75 0 R>>
+endobj
+66 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 67 0 R
+/StructParents 32
+/Tabs /S
+/Parent 76 0 R>>
+endobj
+68 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 69 0 R
+/StructParents 33
+/Tabs /S
+/Parent 76 0 R>>
+endobj
+70 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]>>
+/MediaBox [0 0 749.03998 546]
+/Contents 71 0 R
+/StructParents 34
+/Tabs /S
+/Parent 76 0 R>>
+endobj
+72 0 obj
+<</Type /Pages
+/Count 8
+/Kids [2 0 R 4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R]
+/Parent 77 0 R>>
+endobj
+73 0 obj
+<</Type /Pages
+/Count 8
+/Kids [18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R]
+/Parent 77 0 R>>
+endobj
+74 0 obj
+<</Type /Pages
+/Count 8
+/Kids [34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 48 0 R]
+/Parent 77 0 R>>
+endobj
+75 0 obj
+<</Type /Pages
+/Count 8
+/Kids [50 0 R 52 0 R 54 0 R 56 0 R 58 0 R 60 0 R 62 0 R 64 0 R]
+/Parent 77 0 R>>
+endobj
+76 0 obj
+<</Type /Pages
+/Count 3
+/Kids [66 0 R 68 0 R 70 0 R]
+/Parent 77 0 R>>
+endobj
+77 0 obj
+<</Type /Pages
+/Count 35
+/Kids [72 0 R 73 0 R 74 0 R 75 0 R 76 0 R]>>
+endobj
+78 0 obj
+<</Set-Keras-backend [2 0 R /XYZ 119.25 134.25 0]
+/Derived-from-Geron-11_deep_learning.ipynb [2 0 R /XYZ 119.25 507.75 0]
+/List-version-of-backend [4 0 R /XYZ 119.25 375 0]
+/List-GPU's-available [4 0 R /XYZ 119.25 166.5 0]
+/Standard-imports [6 0 R /XYZ 119.25 165 0]
+/Get-the-MNIST-dataset [8 0 R /XYZ 119.25 373.5 0]
+/Boiler-plate [12 0 R /XYZ 119.25 518.25 0]
+/Define-the-model [12 0 R /XYZ 119.25 288 0]
+/Compile-the-model [14 0 R /XYZ 119.25 291 0]
+/Training [16 0 R /XYZ 119.25 330 0]
+/Sets-all-random-seeds-#28Python,-NumPy,-and-backend-framework,-e.g.-TF#29. [16 0 R /XYZ 119.25 518.25 0]
+/Utilities [20 0 R /XYZ 119.25 518.25 0]
+/History-and-callbacks [24 0 R /XYZ 119.25 518.25 0]
+/Create-call-backs [26 0 R /XYZ 119.25 518.25 0]
+/Training-statistics [26 0 R /XYZ 119.25 212.25 0]
+/Use-the-model-for-prediction [28 0 R /XYZ 119.25 148.5 0]
+/Examine-the-model [30 0 R /XYZ 119.25 385.5 0]
+/Bonus:-Visualize-the-model's-layers-! [34 0 R /XYZ 119.25 518.25 0]
+/Saving-and-reloading-a-model [40 0 R /XYZ 119.25 465 0]
+/Load-a-saved-model [40 0 R /XYZ 119.25 158.25 0]
+/Save-the-model-#28architecture-+-weights-+-optimizer-state#29 [40 0 R /XYZ 119.25 396 0]
+/Show-that-the-restored-model-works [42 0 R /XYZ 119.25 518.25 0]
+/Hyper-parameter-search:-Keras-tuner [44 0 R /XYZ 119.25 240 0]
+/Here-is-the-tuning-code [52 0 R /XYZ 119.25 518.25 0]
+/Create-the-model,-using-a-place-holder-for-each-hyperparameter [54 0 R /XYZ 119.25 518.25 0]
+/Search-for-the-optimal-values-for-the-hyperparameters [60 0 R /XYZ 119.25 518.25 0]>>
+endobj
+79 0 obj
+<</Type /Catalog
+/Pages 77 0 R
+/Dests 78 0 R
+/ViewerPreferences <</Type /ViewerPreferences
+/DisplayDocTitle true>>
+/Lang (en-US)>>
+endobj
+xref
+0 80
+0000000000 65535 f 
+0000000015 00000 n 
+0000001962 00000 n 
+0000000286 00000 n 
+0000002141 00000 n 
+0000000333 00000 n 
+0000002320 00000 n 
+0000000380 00000 n 
+0000002499 00000 n 
+0000000427 00000 n 
+0000002678 00000 n 
+0000000474 00000 n 
+0000002859 00000 n 
+0000000522 00000 n 
+0000003040 00000 n 
+0000000570 00000 n 
+0000003221 00000 n 
+0000000618 00000 n 
+0000003402 00000 n 
+0000000666 00000 n 
+0000003583 00000 n 
+0000000714 00000 n 
+0000003764 00000 n 
+0000000762 00000 n 
+0000003946 00000 n 
+0000000810 00000 n 
+0000004128 00000 n 
+0000000858 00000 n 
+0000004310 00000 n 
+0000000906 00000 n 
+0000004492 00000 n 
+0000000954 00000 n 
+0000004674 00000 n 
+0000001002 00000 n 
+0000004856 00000 n 
+0000001050 00000 n 
+0000005038 00000 n 
+0000001098 00000 n 
+0000005220 00000 n 
+0000001146 00000 n 
+0000005402 00000 n 
+0000001194 00000 n 
+0000005584 00000 n 
+0000001242 00000 n 
+0000005766 00000 n 
+0000001290 00000 n 
+0000005948 00000 n 
+0000001338 00000 n 
+0000006130 00000 n 
+0000001386 00000 n 
+0000006312 00000 n 
+0000001434 00000 n 
+0000006494 00000 n 
+0000001482 00000 n 
+0000006676 00000 n 
+0000001530 00000 n 
+0000006858 00000 n 
+0000001578 00000 n 
+0000007040 00000 n 
+0000001626 00000 n 
+0000007222 00000 n 
+0000001674 00000 n 
+0000007404 00000 n 
+0000001722 00000 n 
+0000007586 00000 n 
+0000001770 00000 n 
+0000007768 00000 n 
+0000001818 00000 n 
+0000007950 00000 n 
+0000001866 00000 n 
+0000008132 00000 n 
+0000001914 00000 n 
+0000008314 00000 n 
+0000008431 00000 n 
+0000008552 00000 n 
+0000008673 00000 n 
+0000008794 00000 n 
+0000008880 00000 n 
+0000008966 00000 n 
+0000010511 00000 n 
+trailer
+<</Size 80
+/Root 79 0 R
+/Info 1 0 R>>
+startxref
+10658
+%%EOF
